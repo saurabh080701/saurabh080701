@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Frontend apprentice on a quest for pixel-perfection, armed with humor and a thirst for knowledge!</p>
+<h3 align="center">Frontend apprentice on a quest for pixel-perfection, armed with humor and a thirst for knowledge!</h3>
 
 ###
 
